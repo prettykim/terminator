@@ -1,4 +1,4 @@
 name: Terminator
 version: 1.0.0
 main: io.github.prettykim.terminator.Terminator
-api-version: 1.18
+api-version: 1.19
